@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+    <string name="text_empty">Quote is Empty</string>
+</resources>
